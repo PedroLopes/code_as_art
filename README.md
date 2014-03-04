@@ -3,6 +3,7 @@ code_as_art
 
 art pieces through machine code
 
+how do they work?
 
 _LoveYouLoveMeNot.sh_	Is a piece that mimics the old game "Love me... Love me not" as you deflower petals on a marguerite. 
 			Reference: http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
