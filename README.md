@@ -5,14 +5,10 @@ art pieces through machine code
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-
 **LoveYouLoveMeNot.sh**	| Is a piece that mimics the old game "Love me... Love me not" as you deflower petals on a marguerite. 
-			| Reference: http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
-			| Language: shell script
-			| Written because: I love too.
+Reference 			| Reference: http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
+Language 			| Language: shell script
+Written Because 			| Written because: I love too.
 
 **diagonal.py**		Identation is visual poetry
 			Reference: An homage to visual poets & typographists, from Alberto Pimenta to Eric Gill 
