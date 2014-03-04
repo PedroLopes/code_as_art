@@ -4,7 +4,7 @@ code_as_art
 art pieces through machine code
 
 Code			| Meaning
-------------- | -------------
+:------------- | :-------------
 **LoveYouLoveMeNot.sh**	| mimics "Love me... Love me not" as you deflower petals on a marguerite. 
 Reference 		| http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
 Language 		| shell script (UNIX)
