@@ -3,12 +3,12 @@ code_as_art
 
 art pieces through machine code
 
-how do they work?
+First Header  | Second Header
 
-_LoveYouLoveMeNot.sh_	Is a piece that mimics the old game "Love me... Love me not" as you deflower petals on a marguerite. 
-			Reference: http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
-			Language: shell script
-			Written because: I love too.
+~~LoveYouLoveMeNot.sh~~	| Is a piece that mimics the old game "Love me... Love me not" as you deflower petals on a marguerite. 
+			| Reference: http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
+			| Language: shell script
+			| Written because: I love too.
 
 _diagonal.py_		Identation is visual poetry
 			Reference: An homage to visual poets & typographists, from Alberto Pimenta to Eric Gill 
