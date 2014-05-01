@@ -5,6 +5,11 @@ art pieces through machine code
 
 Code			| Meaning
 :------------- | :-------------
+**thelema.py**		| have a conversation with alester crowley. you have been warned.
+Reference 		| http://en.wikipedia.org/wiki/The_Book_of_the_Law
+Language 		| python
+Written Because 	| i did as i "wilted", and that was the whole of the law.
+			| 		
 **LoveYouLoveMeNot.sh**	| mimics "Love me... Love me not" as you deflower petals on a marguerite. 
 Reference 		| http://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not
 Language 		| shell script (UNIX)
