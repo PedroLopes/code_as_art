@@ -3,8 +3,6 @@ import sys
 import re
 from random import randint
 
-chapter1_data_split=[]
-
 bookofthelaw_crowley=[] 
 bookofthelaw_parser=[]
 
@@ -17,8 +15,6 @@ bookofthelaw_parser=[]
 
 bookofthelaw="texts/bookofthelaw/bookofthelaw.text"
 #chapter1="texts/bookofthelaw/chapter1.text" #if you want the complete chapter, see here
-#chapter2="texts/bookofthelaw/chapter2.text" #if you want the complete chapter, see here
-#chapter3="texts/bookofthelaw/chapter3.text" #if you want the complete chapter, see here
 
 
 with open(bookofthelaw) as f:
@@ -81,8 +77,10 @@ while True:
 			maximal_index = resonant_index
 	#print maximal_index
 	if (maximal_index == -1 or maximal_index == 0):
-		the_answer = randint(0,len(bookofthelaw_crowley)-1)
+		the_answer = randint(0,len(bookofthelaw_crowley)-2)
 	else:	
 		the_answer = maximal_index
 	print bookofthelaw_crowley[the_answer]
+	if (maximal_index == len(bookofthelaw_crowley)-1):
+		sys.exit()
 	#print bookofthelaw_crowley
