@@ -34,7 +34,10 @@ for prophetic_statement in bookofthelaw_data:
 			bookofthelaw_parser.append(prophetic_statement_parser)
 
 while True:
-	yourwill = input("What is your will?") #changed for python3 support
+	if sys.version_info[0] < 3:
+		yourwill = raw_input("What is your will?") #changed for python<3 support
+	else:
+		yourwill = input("What is your will?") #old for python3 support
 
 #this is if you want to read your will from a file			
 #if len(sys.argv) != 2:
